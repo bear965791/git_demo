@@ -1,4 +1,4 @@
-console.log('add in github')
+console.log('modify in local v2')
 // get input dom
 const userInput = document.getElementById('user-input');
 
